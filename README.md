@@ -1,4 +1,4 @@
-# Projeto Casa Criativa
+# Projeto Ecoleta
 
 ## 📋 Descrição
 Hey Devs!
